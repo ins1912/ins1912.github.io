@@ -18,7 +18,7 @@ tagline:             "Can't keep up with my dreams without studying."
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  I Enjoy Data Security, and Music production.
+  Information Security,  Music production.
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
