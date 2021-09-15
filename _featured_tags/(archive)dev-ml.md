@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Statistics & R
-slug: r
-category: dev
+title: ML
+slug: ml
+category: -
 menu: false
 order: 1
 ---

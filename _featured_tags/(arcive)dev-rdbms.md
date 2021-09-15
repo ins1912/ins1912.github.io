@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Rdbms
 slug: rdbms
-category: dev
+category: -
 menu: false
 order: 5
 ---
